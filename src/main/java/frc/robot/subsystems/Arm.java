@@ -29,9 +29,6 @@ public class Arm extends Subsystem {
         //Get the position of the joystick on the XBox controller
         //Interpret the position of the joystick into movement
         //Send the value to speed controller controlling motor's movements
-        /*
-
-        */
     }
 
     public double setAngle()
